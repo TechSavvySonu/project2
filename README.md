@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system.
-Created by Sonu Pandey..
+And it was created by Sonu Pandey..
